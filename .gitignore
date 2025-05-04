@@ -1,0 +1,6 @@
+*.json
+trendyol_sitemaps/
+product_url.txt
+product_urls.txt
+*.jsonl
+*.xml
